@@ -1,0 +1,13 @@
+# Network Latency Tester
+# No external dependencies required - uses Python standard library only
+
+# Python 3.6+ required
+# Standard library modules used:
+# - socket
+# - time
+# - os
+# - threading
+# - statistics
+# - json
+# - datetime
+# - concurrent.futures

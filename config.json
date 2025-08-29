@@ -1,0 +1,7 @@
+{
+  "host": "example.com",
+  "port": 80,
+  "default_num_tests": 5,
+  "default_timeout": 3,
+  "config_created": "2025-08-29T23:44:26.888631"
+}
